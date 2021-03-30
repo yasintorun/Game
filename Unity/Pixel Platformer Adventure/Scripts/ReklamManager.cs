@@ -8,8 +8,7 @@ public class ReklamManager : MonoBehaviour
     private InterstitialAd interAD;
 
 
-    private string interID = "ca-app-pub-4119620821276720/3119228602";
-    //private string interID = "ca-app-pub-3940256099942544/1033173712";
+    private string interID = "Reklamlarrr";
     public int reklamSayac = 3;
 
 
